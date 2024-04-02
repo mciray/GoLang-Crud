@@ -18,7 +18,7 @@ Projeyi çalıştırmak için aşağıdakilere ihtiyacınız olacak:
 
 1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/<kullanıcıadı>/<repo-adı>.git
+git clone https://github.com/mciray/GoLang-Crud.git
 ```
 2. .env dosyasını oluşturun ve veritabanı bağlantı bilgilerinizi girin:
 ```bash
