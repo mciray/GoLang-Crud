@@ -42,7 +42,7 @@ git clone https://github.com/<kullanıcıadı>/<repo-adı>.git
 
 1. Bu API, temel CRUD işlevlerini gerçekleştirebilir. Örneğin, tüm öğeleri listelemek için:
 ```bash
-curl http://localhost:8080/items
+curl http://localhost:portunuz/items
 ```
 2. eni bir öğe eklemek için:
 ```bash
